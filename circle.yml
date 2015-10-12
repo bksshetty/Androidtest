@@ -22,4 +22,4 @@ dependencies:
 test:
   override:
     - ./gradlew assembleRelease
-    - cp -r /home/ubuntu/andoidtest/Wearable/build/outputs $CIRCLE_ARTIFACTS
+    - cp -r /Androidtest/app/build/outputs $CIRCLE_ARTIFACTS
