@@ -52,11 +52,11 @@ android {
     buildTypes {
         release {
             ext.betaDistributionEmails="kirthanshetty@hotmail.com"
-            ext.betaDistributionReleaseNotesFilePath="ReleaseNote-test-21"
+            ext.betaDistributionReleaseNotes="ReleaseNote-test-21"
         }
         debug {
             ext.betaDistributionEmails="kirthanshetty@hotmail.com"
-            ext.betaDistributionReleaseNotesFilePath="ReleaseNote-test-21"
+            ext.betaDistributionReleaseNotes="ReleaseNote-test-21"
         }
     }
 }
