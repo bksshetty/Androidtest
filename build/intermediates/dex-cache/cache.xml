@@ -6,70 +6,70 @@
         jumboMode="false"
         revision="23.0.1"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-27317467453b9f28fa6d4c17226e6b3bc2d1a866.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/internal_impl-22.2.1-27317467453b9f28fa6d4c17226e6b3bc2d1a866.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.2/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e99413cdc93bd7b001d312a4a33d25ac21042f69">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-f319b5aa57f2b4379f05bb42b16dc95f94c299a0.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-f319b5aa57f2b4379f05bb42b16dc95f94c299a0.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-1470cbc069bfad5f3f1ced4ec4adcad716c806b0.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-1470cbc069bfad5f3f1ced4ec4adcad716c806b0.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-d6742caf3b212de7fa2f6924d444fd079c7bb863.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-d6742caf3b212de7fa2f6924d444fd079c7bb863.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-c1d192aaa19d17e5ccc6a06dc705ced5bb9caf30.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-c1d192aaa19d17e5ccc6a06dc705ced5bb9caf30.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.2/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="0c7f9fb9a729166c69fa585e01be2fe8fab4f45c">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-d622e525ea20d13648da138ea5b4fa345da144fc.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-d622e525ea20d13648da138ea5b4fa345da144fc.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.5/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d18ba1d0eff55680fdf9a35f70a6091e4bc1adcb">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-c7eda46c0adddd1e02ac709bc677b2862899dc15.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-c7eda46c0adddd1e02ac709bc677b2862899dc15.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-2f32237761f9f2a02896484e7540004efdb02ec7.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-2f32237761f9f2a02896484e7540004efdb02ec7.jar" />
     </item>
     <item
         jar="/home/kirthan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-28a546e0a8438cc24397a7aa3f5eb153b6c123a0.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/support-annotations-22.2.1-28a546e0a8438cc24397a7aa3f5eb153b6c123a0.jar" />
     </item>
     <item
         jar="/var/www/android-project/MyTestApp/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.6/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="fc82596d7f7683c8b3a7e5715a2ed5295c586887">
-        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/debug/classes-ce6566ab3ffe7fc31e451116c7d236f4932be964.jar" />
+        <dex dex="/var/www/android-project/MyTestApp/app/build/intermediates/pre-dexed/release/classes-ce6566ab3ffe7fc31e451116c7d236f4932be964.jar" />
     </item>
 
 </items>
