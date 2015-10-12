@@ -51,6 +51,7 @@ android {
 android {
     buildTypes {
         release {
+            gradle assembleRelease crashlyticsUploadDistributionRelease
             ext.betaDistributionEmails="kirthanshetty@hotmail.com"
             ext.betaDistributionReleaseNotes="ReleaseNote-test-21"
         }
